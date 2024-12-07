@@ -7,5 +7,5 @@ main(args);
 
 static void main(string[] args)
 {
-	day1.Run();
+	day2.Run();
 }
